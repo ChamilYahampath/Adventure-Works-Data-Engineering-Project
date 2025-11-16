@@ -1,11 +1,11 @@
 [
     {
-        "p_rel_url": "ChamilYahampath/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/Galledata.csv",
+        "p_rel_url": "ChamilYahampath/Weather-Data-ETL-Pipeline/refs/heads/main/Data/Galledata.csv",
         "p_sink_folder": "Galle",
         "p_file_name": "Galledata.csv"
     },
     {
-        "p_rel_url": "ChamilYahampath/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/nikaweratiya.csv",
+        "p_rel_url": "ChamilYahampath/Weather-Data-ETL-Pipeline/refs/heads/main/Data/nikaweratiya.csv",
         "p_sink_folder": "Nikaweratiya",
         "p_file_name": "nikaweratiya.csv"
     }
