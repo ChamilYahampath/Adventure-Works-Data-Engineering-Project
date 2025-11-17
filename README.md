@@ -52,4 +52,7 @@ Used for dashboards in Power BI.
 - Cleaned weather datasets in Parquet format  
 - SQL-based analytical tables  
 - Ready-to-use BI model for weather analysis  
-- Modular, scalable, and production-ready architecture  
+- Modular, scalable, and production-ready architecture
+
+**Read the full step-by-step walkthrough on Medium here.** 👇
+https://medium.com/@chamilyahampath/building-an-end-to-end-weather-data-etl-pipeline-on-azure-step-by-step-guide-682d9e6848a0
