@@ -55,4 +55,5 @@ Used for dashboards in Power BI.
 - Modular, scalable, and production-ready architecture
 
 **Read the full step-by-step walkthrough on Medium here.** 👇
+
 https://medium.com/@chamilyahampath/building-an-end-to-end-weather-data-etl-pipeline-on-azure-step-by-step-guide-682d9e6848a0
